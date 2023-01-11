@@ -1,1 +1,2 @@
 # odin-recipes
+This is an Odin project cirriculum project to practice HTML in the shepe of recipes website, i chose to make the recipes about high protein meals, since i am into bodybuilding and these are the foods i eat on a day to day basis.
